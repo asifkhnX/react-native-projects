@@ -17,6 +17,7 @@ keystore.txt
 appstoreconnectapikey.txt
 
 # Firebase keys
+sswellness-f1619-firebase-adminsdk-hbe5c-7c6cf46d64.json
 google-services.json
 GoogleService-Info.plist
 *.pem
