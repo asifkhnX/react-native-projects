@@ -34,9 +34,7 @@ Before running the project, ensure you have the following installed:
 
 ## ⚙️ Setup Instructions
 
-git clone https://github.com/your-repo/ss-wellness-app.git
-
-cd ss-wellness-app
+Run these commands from the project root:
 
 npm install
 
