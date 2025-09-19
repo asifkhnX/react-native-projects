@@ -28,7 +28,7 @@ Before running the project, ensure you have the following installed:
 - **Expo CLI** (`npm install -g expo-cli`)  
 - **Expo Go app** (for testing on mobile)  
 - **Backend API** for authentication, rewards, points, and products  
-- **Payment Gateway Setup** (e.g., Stripe)  
+- **Striep Payment Gateway Setup**  
 
 ---
 
