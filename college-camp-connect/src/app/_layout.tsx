@@ -57,7 +57,7 @@ export default function RootLayout() {
   }
 
   return (
-    <StripeProvider publishableKey="pk_live_51RwSKVLhQ0Bj5L7wLy5iz1waKrvSDS2xcmIQr14vfwSTy5tvbVaWlh1FQvhjCowI9GqPKl9GLJ5ukmZlZSUxk2Ms00TcdyUufG">
+    <StripeProvider publishableKey="STRIPE_PUBLISHABLE_KEY">
       <Providers>
         {isConnected === false && <NoInternet />}
         <Stack>
