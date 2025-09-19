@@ -23,12 +23,12 @@ The app complements the existing SS Wellness website and enhances the overall cu
 
 Before running the project, ensure you have the following installed:
 
-- **Node.js** (>= 16.x recommended)  
+- **Node.js**
 - **npm** or **yarn**  
 - **Expo CLI** (`npm install -g expo-cli`)  
 - **Expo Go app** (for testing on mobile)  
 - **Backend API** for authentication, rewards, points, and products  
-- **Payment Gateway Setup** (e.g., Stripe, Razorpay, etc.)  
+- **Payment Gateway Setup** (e.g., Stripe)  
 
 ---
 
