@@ -1,0 +1,5 @@
+ Keystore password: e427e160c0f21dd88692cb66599df3f1
+    Key alias:         0f5391e554bdbde354af9e8781ca6303
+    Key password:      4bd61ef335dccb829cd8115f8378e2f4
+
+    Path to Keystore:  @asifkhn2003__wellnessapp.jks
