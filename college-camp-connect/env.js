@@ -38,8 +38,8 @@ require('dotenv').config({
 const BUNDLE_ID = 'com.collegecampconnect'; // ios bundle id
 const PACKAGE = 'com.collegecampconnect'; // android package name
 const NAME = 'college camp connect'; // app name
-const EXPO_ACCOUNT_OWNER = 'asifkhn2003'; // expo account owner
-const EAS_PROJECT_ID = 'd5593ced-de63-4af6-8033-d3cbdccb7f9a'; // eas project id
+const EXPO_ACCOUNT_OWNER = ''; // expo account owner
+const EAS_PROJECT_ID = ''; // eas project id
 const SCHEME = 'collegecampconnect'; // app scheme
 
 /**
