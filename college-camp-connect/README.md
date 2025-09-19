@@ -30,8 +30,7 @@ While the **app is for athletes only**, coaches and camp directors can submit ne
 
 👉 [https://campsandclinics.com/](https://campsandclinics.com/)  
 
-Directors submit their camps using this form:  
-👉 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfmsO794kmdV90JiXrFkA0eD5mqPkpbp3Ub5O9RIpKYIAnxfg/viewform)  
+Directors submit their camps using google form.
 
 ---
 
@@ -42,8 +41,6 @@ Directors submit their camps using this form:
 - [Git](https://git-scm.com/)
 - [Watchman](https://facebook.github.io/watchman/docs/install#buildinstall) (macOS/Linux only)
 - [Pnpm](https://pnpm.io/installation)
-- [Cursor](https://www.cursor.com/) or [VS Code](https://code.visualstudio.com/download)  
-  ⚠️ Install all recommended extensions from `.vscode/extensions.json`
 
 ---
 
