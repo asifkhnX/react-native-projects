@@ -1,0 +1,23 @@
+# Android build artifacts
+android/build
+android/app/build
+android/.gradle
+
+# Expo / React Native caches
+.expo
+.expo-shared
+*.expo
+
+# Node modules (EAS installs them automatically)
+node_modules
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IDE / OS files
+.vscode
+.idea
+*.DS_Store
+Thumbs.db
+a

@@ -1,0 +1,28 @@
+name: Build Android APK
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_apk:
+    name: Build APK
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@v4
+
+      - name: 📦 Setup Node + PNPM + Install Dependencies
+        uses: ./.github/actions/setup-node-pnpm-install
+        # Note: You'll also need the 'setup-node-pnpm-install' action from the documentation.
+
+      - name: 🏗️ Setup JDK + Generate APK
+        uses: ./.github/actions/setup-jdk-generate-apk
+        with:
+          APP_ENV: 'development'
+
+      - name: Upload APK as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-release
+          path: android/app/build/outputs/apk/release/app-release.apk
